@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 raul açucarado é muito lindo
 chocolícia esteve aqui 
+o guilherme passou por aqui primeiro
 =======
+raul açucarado é muito lindo
 >>>>>>> parent of a4cfa14 (aprimoramento do texto)
